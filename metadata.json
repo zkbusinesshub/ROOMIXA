@@ -1,0 +1,6 @@
+{
+  "name": "Roomixa",
+  "description": "Roomixa is an aesthetic room decor brand under parent company ZK Business Hub, catering to Gen-Z and modern room environments with premium LED lights, anime posters, wall decor, and neon signs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
